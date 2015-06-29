@@ -1,5 +1,5 @@
 ===========================
-Monospark Coding Guidelines
+Monospark project guidelines
 ===========================
 
-This repository contains the coding guidelines which every Monospark project should follow. See `GUIDELINES.rst <https://github.com/Monospark/CodingGuidelines/blob/master/GUIDELINES.rst>`_
+This repository contains the coding guidelines which every Monospark project should follow.

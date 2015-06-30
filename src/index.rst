@@ -8,5 +8,5 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   codeconventions
+   code-requirements
    contributing

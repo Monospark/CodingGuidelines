@@ -2,7 +2,7 @@
   "name": "Monospark-Guidelines",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Monospark/Guidelines.git"
+    "url": "git://github.com/Monospark/Monospark-Guidelines.git"
   },
   "version": "0.0.1",
   "private": true,

@@ -214,7 +214,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Guidelines'
+htmlhelp_basename = 'Monospark-Guidelines'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -236,7 +236,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'Guidelines.tex', 'Monospark Guidelines',
+  (master_doc, 'Monospark-Guidelines.tex', 'Monospark Guidelines',
    'Christopher Schnick', 'manual'),
 ]
 
@@ -266,7 +266,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'guidelines', 'Monospark Guidelines',
+    (master_doc, 'index', 'Monospark Guidelines',
      [author], 1)
 ]
 
@@ -280,8 +280,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'Guidelines', 'Monospark Guidelines',
-   author, 'Guidelines', '',
+  (master_doc, 'index', 'Monospark Guidelines',
+   author, 'Monospark-Guidelines', '',
    'Miscellaneous'),
 ]
 

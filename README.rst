@@ -1,8 +1,6 @@
-.. image:: https://travis-ci.org/Monospark/Guidelines.svg
-    :target: https://travis-ci.org/Monospark/Guidelines
-
 ===========================
-Monospark project guidelines
+Monospark Guidelines
 ===========================
 
-This repository contains the coding guidelines which every Monospark project should follow.
+.. image:: https://travis-ci.org/Monospark/Monospark-Guidelines.svg?branch=master
+    :target: https://travis-ci.org/Monospark/Monospark-Guidelines

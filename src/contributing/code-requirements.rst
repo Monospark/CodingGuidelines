@@ -10,7 +10,7 @@ Code Style
 All Monospark projects follow the `Google Java Style Guidelines <https://google-styleguide.googlecode.com/svn/trunk/javaguide.html>`_.
 Furthermore, there are some custom modifications to these guidelines, which are listed here:
 
-Column width
+Column Width
 ------------
 
 The column width, which represents the maximum amount of characters per line, is:
@@ -24,7 +24,7 @@ Indentation
 * For Indentation, 4 spaces are used. Do not use tabs or any other amount of spaces.
 * Lines, which were wrapped because they were exceeding the 120 character column width, are indented with 6 spaces instead of 4.
 
-Line endings
+Line Endings
 ------------
 
 For line endings, the Unix newline character Line Feed (LF, \\n, U+000A) is used.
@@ -33,7 +33,7 @@ For line endings, the Unix newline character Line Feed (LF, \\n, U+000A) is used
    Since Windows uses CRLF as a newline character, Windows users must configure Git to automatically convert CRLF line endings to LF.
    This is done by setting the value "core.autocrlf" in your Git System Settings to "true" (``git config --global core.autocrlf true``).
 
-Blank lines
+Blank Lines
 -----------
 
 * Place a blank line before the first member of a class, interface, or enum.
@@ -42,7 +42,7 @@ Blank lines
 Code Conventions
 ================
 
-Usage of new features
+Usage of New Features
 ---------------------
 
 All Monospark projects currently target Java 8 for source and compilation.

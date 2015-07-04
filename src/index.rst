@@ -6,6 +6,7 @@ Contents:
 =========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :titlesonly:
    
-   Contribution Guidelines </contributing/index>
+   Contribution Guidelines <contributing/index>

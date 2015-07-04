@@ -1,3 +1,9 @@
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   
+   requirements
+
 =========================
 Contributing to a Project
 ========================= 
